@@ -1,0 +1,14 @@
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Electronicshop\bin\Debug\net7.0\Electronicshop.exe
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Electronicshop\bin\Debug\net7.0\Electronicshop.deps.json
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Electronicshop\bin\Debug\net7.0\Electronicshop.runtimeconfig.json
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Electronicshop\bin\Debug\net7.0\Electronicshop.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Electronicshop\bin\Debug\net7.0\Electronicshop.pdb
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Electronicshop\obj\Debug\net7.0\Electronicshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Electronicshop\obj\Debug\net7.0\Electronicshop.AssemblyInfoInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Electronicshop\obj\Debug\net7.0\Electronicshop.AssemblyInfo.cs
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Electronicshop\obj\Debug\net7.0\Electronicshop.csproj.CoreCompileInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Electronicshop\obj\Debug\net7.0\Electronicshop.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Electronicshop\obj\Debug\net7.0\refint\Electronicshop.dll
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Electronicshop\obj\Debug\net7.0\Electronicshop.pdb
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Electronicshop\obj\Debug\net7.0\Electronicshop.genruntimeconfig.cache
+C:\Users\Taha\OneDrive\Masaüstü\PTK\Electronicshop\obj\Debug\net7.0\ref\Electronicshop.dll

@@ -27,4 +27,4 @@ Thank you.`
 ***
 ---
 `Console Screen`
-![Console Screen](<Ekran görüntüsü 2024-01-20 171919.png>)
+![Console Screen](<Consolescreen.png>)

@@ -1,5 +1,4 @@
-`Herkese selam;`
-Bugün sizlere "Abstract" sınıf kullanarak küçük boyutlu bir elektronik alışveriş console programı yazmaya çalıştım.
+`Bugün sizlere "Abstract" sınıf kullanarak küçük boyutlu bir elektronik alışveriş console programı yazmaya çalıştım.`
 ***
 ```
 -Programda Bulunan Özellikler-
@@ -12,8 +11,7 @@ Bugün sizlere "Abstract" sınıf kullanarak küçük boyutlu bir elektronik al�
 Teşekkür ederim.`
 ***
 ---
-Hello everyone
-Today I tried to write a small size electronic shopping console program using "Abstract" class.
+`Today I tried to write a small size electronic shopping console program using "Abstract" class.`
 ***
 ```
 -Features Included in the Program-

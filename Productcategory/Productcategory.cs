@@ -14,7 +14,7 @@ namespace Shop
         {
             // Displaying the category name and a message.
             // Kategori adını ve bir mesajı gösterme.
-            Console.WriteLine($"{Getcategoryname()} <>Category The Product<>");
+            Console.WriteLine($"{GetcategoryByname()} <>Category The Product<>");
 
             // Displaying each product in the category.
             // Kategorideki her ürünü gösterme.
@@ -72,6 +72,6 @@ namespace Shop
 
         // Abstract method to provide the category name.
         // Kategori adını sağlamak için soyut metot.
-        protected abstract string Getcategoryname();
+        protected abstract string GetcategoryByname();
     }
 }

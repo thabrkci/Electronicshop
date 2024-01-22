@@ -90,7 +90,7 @@
                 // Alışveriş sepetindeki her ürünü gösterme.
                 for (int i = 0; i < Shoppingcart.Count; i++)
                 {
-                    Console.WriteLine($"{i + 1}. {Shoppingcart[i].Productname} - {Shoppingcart[i].Productinfos} Price<> {Shoppingcart[i].Productprice} TL");
+                    Console.WriteLine($"{i + 1}. {Shoppingcart[i].ProductName} - {Shoppingcart[i].ProductInfos} Price<> {Shoppingcart[i].ProductPrice} TL");
                 }
 
                 // Displaying the total value of items in the shopping cart.
@@ -103,7 +103,7 @@
         // Alışveriş sepetindeki ürünlerin fiyatlarını toplama metodunu tanımlama.
         static decimal Calculatetotal()
         {
-            return Shoppingcart.Sum(product => product.Productprice);
+            return Shoppingcart.Sum(product => product.ProductPrice);
         }
 
         // Method to check if the value received from the user is a number.

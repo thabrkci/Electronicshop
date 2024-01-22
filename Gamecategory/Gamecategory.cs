@@ -16,6 +16,6 @@ namespace Shop
 
         // Implementing the abstract method to provide the category name.
         // Soyut metodu uygulayarak kategori adını sağlama.
-        protected override string GetcategoryByname() => "GAMES";
+        protected override string GetcategoryByName() => "GAMES";
     }
 }

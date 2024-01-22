@@ -6,23 +6,23 @@ namespace Shop
     {
         // Public property to get or set the product name.
         // Ürün adını almak veya ayarlamak için genel özellik.
-        public string? Productname { get; set; }
+        public string? ProductName { get; set; }
 
         // Public property to get or set additional information about the product.
         // Ürün hakkında ek bilgi almak veya ayarlamak için genel özellik.
-        public string? Productinfos { get; set; }
+        public string? ProductInfos { get; set; }
 
         // Public property to get or set the product price.
         // Ürün fiyatını almak veya ayarlamak için genel özellik.
-        public decimal Productprice { get; set; }
+        public decimal ProductPrice { get; set; }
 
         // Constructor method to initialize product information.
         // Ürün bilgilerini başlatmak için kurucu metot.
-        public Productinfo(string productname, string productinfos, decimal productprice)
+        public Productinfo(string productname, string productınfos, decimal productprice)
         {
-            Productname = productname;
-            Productinfos = productinfos;
-            Productprice = productprice;
+            ProductName = productname;
+            ProductInfos = productınfos;
+            ProductPrice = productprice;
         }
     }
 }
